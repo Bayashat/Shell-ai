@@ -23,8 +23,8 @@ Shell AI is a Python-based tool that helps users generate shell commands from na
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd shell-ai
+   git clone https://github.com/Bayashat/Shell-ai.git
+   cd Shell-ai
    ```
 
 2. **Install dependencies using uv (recommended):**
